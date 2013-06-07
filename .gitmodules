@@ -1,0 +1,3 @@
+[submodule "SkeletonProject/Assets/Code/Shared"]
+	path = SkeletonProject/Assets/Code/Shared
+	url = https://github.com/TZmahk/sharedtest.git
